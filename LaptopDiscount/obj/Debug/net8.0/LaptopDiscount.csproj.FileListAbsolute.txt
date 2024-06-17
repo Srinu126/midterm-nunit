@@ -1,0 +1,14 @@
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\bin\Debug\net8.0\LaptopDiscount.exe
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\bin\Debug\net8.0\LaptopDiscount.deps.json
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\bin\Debug\net8.0\LaptopDiscount.runtimeconfig.json
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\bin\Debug\net8.0\LaptopDiscount.dll
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\bin\Debug\net8.0\LaptopDiscount.pdb
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.AssemblyInfoInputs.cache
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.AssemblyInfo.cs
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.dll
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\refint\LaptopDiscount.dll
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.pdb
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\LaptopDiscount.genruntimeconfig.cache
+C:\Users\srinu\co-op related\LAPTOPDISCOUNT_S6\LaptopDiscount\obj\Debug\net8.0\ref\LaptopDiscount.dll

@@ -39,6 +39,9 @@ namespace LaptopDiscount
                     discount = 0.21m; // 20% discount
                     break;
             }
+            if(Price<=0){
+                return 0;
+            }
 
             return Price - (Price * discount);
         }
